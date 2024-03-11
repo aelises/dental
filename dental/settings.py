@@ -30,7 +30,7 @@ SECRET_KEY = 'l=x(9p(&6p_xj+k4vj_d!3l5r^)18tjiqmq6agy12+*0*($x_e'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
